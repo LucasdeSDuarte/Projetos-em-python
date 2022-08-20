@@ -1,4 +1,4 @@
-valor = int(input('Que valor você que sacar: '))
+valor = int(input('Qual valor você deseja sacar: '))
 total = valor
 ced = 50
 totced = 0
