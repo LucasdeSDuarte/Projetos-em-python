@@ -1,5 +1,5 @@
 print('{:=^40}'.format('LOJAS LUGUIS MODAS'))
-preco = float(input('Preco das compras: R$'))
+preco = float(input('Preço das compras: R$'))
 print('''FORMAS DE PAGAMENTOS
 [1] À Vista dinheiro/cheque
 [2] À Vista cartão
